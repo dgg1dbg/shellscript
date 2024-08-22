@@ -1,1 +1,1 @@
-# shellscript
+studying shell script
